@@ -1,0 +1,1 @@
+key_langchain02 = "Your OpenAI API Key" 
