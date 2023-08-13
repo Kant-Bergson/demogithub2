@@ -1,0 +1,12 @@
+2023-08-11 23:59:39 [INFO] Question: what the job_title have the highest salary
+2023-08-11 23:59:39 [INFO] Running PandasAI with openai LLM...
+2023-08-11 23:59:39 [INFO] Prompt ID: 3150cc8b-ec39-4fcc-ac52-00fc0b3703de
+2023-08-11 23:59:40 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-12 00:04:08 [INFO] Running PandasAI with openai LLM...
+2023-08-12 00:04:08 [INFO] Prompt ID: 1ff29442-595d-4a28-88bb-5f28c96efa5f
+2023-08-12 00:04:08 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-12 19:32:08 [INFO] Question: what the higtest salary
+
+2023-08-12 19:32:08 [INFO] Running PandasAI with openai LLM...
+2023-08-12 19:32:08 [INFO] Prompt ID: 17022490-6de6-44c5-a387-16c61080c713
+2023-08-12 19:32:08 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: Your Ope******* Key. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
